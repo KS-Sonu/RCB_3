@@ -1,3 +1,4 @@
 Name:SONU
 CLASS:BCAC
-DEPT:BCA
+DEPT:bca
+  player name:virat kholi
